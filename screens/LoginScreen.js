@@ -43,7 +43,7 @@ export default class LoginScreen extends React.Component {
       return(
         <KeyboardAvoidingView style = {{alignItems:'center',marginTop:20}}>
         <View>
-          <Text style={{textAlign: 'center', fontSize: 30}}>Wily</Text>
+          <Text style={{textAlign: 'center', fontSize: 30}}>Bedtime Stories</Text>
         </View>
         <View>
         <TextInput
