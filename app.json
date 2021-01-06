@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Story Hub",
+    "slug": "Story_Hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/read.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/read.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.samanvith_kashyap.StoryHub"
+    },
+    "web": {
+      "favicon": "./assets/read.png"
+    }
+  }
+}
